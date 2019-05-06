@@ -13,7 +13,6 @@ loop do
   
 end
 
-end 
 
 
 def times_iterator(number_of_times)
