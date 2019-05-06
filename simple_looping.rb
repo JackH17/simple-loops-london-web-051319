@@ -7,18 +7,17 @@ loop do puts "#{phrase}"
 count += 1 
 
 break if count == number_of_times
-phrase = "Welcome to Flatiron School's Web Development Course!"
-number_of_times.times do 
-  puts "#{phrase}
-  "
+end 
+
 end
 
 
 def times_iterator(number_of_times)
   
+phrase = "Welcome to Flatiron School's Web Development Course!"
 
-    
-    puts "#{phrase}"
+number_of_times.times do 
+  puts "#{phrase}"
   end
 
   
