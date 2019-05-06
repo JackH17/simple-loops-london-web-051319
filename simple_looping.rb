@@ -13,7 +13,9 @@ end
 
 def times_iterator(number_of_times)
   
-  number_of_times.do 
+  number_of_times.times do 
+    
+    puts "#{phrase}"
 
   
 end
