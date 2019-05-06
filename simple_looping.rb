@@ -48,7 +48,7 @@ def for_iterator(number_of_times)
   phrase = "Welcome to Flatiron School's Web Development Course!"
   count = 0 
   
-  while count < number_of_times
+  for 
   
 
 end
