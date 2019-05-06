@@ -12,6 +12,8 @@ end
 
 
 def times_iterator(number_of_times)
+  
+  number_of_times.do 
 
   
 end
